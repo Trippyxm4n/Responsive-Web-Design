@@ -1,0 +1,9 @@
+header{
+  font-weight: thin;
+  font-size: 1.8em;
+}
+@media(max-width: 770px) {
+  #nav {
+    width: 50px;
+  }
+}
